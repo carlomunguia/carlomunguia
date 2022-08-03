@@ -1,5 +1,3 @@
-### 🤖 Greetings, Human 🤖
-
 ### ⏣〄 Carlo is working on all things Ruby, Go & Elixir (with a healthy dose of Javascript) 〄⏣
 
 
