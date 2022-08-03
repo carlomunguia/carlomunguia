@@ -1,4 +1,4 @@
-### ⏣〄 Carlo is working on all things Ruby, Go & Elixir (with a healthy dose of Javascript) 〄⏣
+### ⏣〄 Carlo is working on all things Go & Ruby (with a healthy dose of Javascript & Elixir) 〄⏣
 
 
 <!--
