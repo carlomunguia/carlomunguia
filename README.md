@@ -1,6 +1,8 @@
 ### ⏣〄 Carlo is working on all things Go & Ruby (with a healthy dose of Javascript & Elixir) 〄⏣
 
 [![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlomunguia&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlomunguia&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
